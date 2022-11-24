@@ -10,7 +10,7 @@ added and removed by editing the config.h file.
 # Tim's build
 
 I have dwmblocks read Luke's preexisting scripts
-[here in my dotfiles repo](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin/statusbar).
+[here in his dotfiles repo](https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin/statusbar).
 So if you want my build out of the box, download those and put them in your
 `$PATH`. This is to avoid redundancy in statusbar scripts.
 
